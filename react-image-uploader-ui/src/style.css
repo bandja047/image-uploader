@@ -1,0 +1,23 @@
+:root{
+
+
+    --color-background-progess-bar:#F2F2F2;
+    --color-background-drag-drop: #F6F8FB;
+    --color-gray:#BDBDBD;
+    --color-subtitle-upload:#828282;
+    --color-title-upload:#4F4F4F;
+    --color-background-body:#333333;
+    --color-background-blue:#2F80ED;
+    --color-border-blue:#97BEF4;
+    --color-background-green:#219653;
+    --letter-spacing:-0.035em;
+    --line-height: 18px;
+    --line-height-img-path:12px;
+    --line-height-subtitle: 15px;
+    --line-height-title: 27px;
+    --font-poppins:"Poppins";
+    --font-noto-sans:"Noto Sans";
+    --box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    --border-radius: 12px;
+    --border-radius-button:8px;
+}

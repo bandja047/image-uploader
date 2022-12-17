@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    background-color: var(--color-background-body);
+    margin:0;
+    padding:0;
+    font-family: var(--font-poppins);
+}
+
+#root{
+   
+  
+    position: absolute;
+    top:50%;
+    left: 50%;
+    
+    transform: translate(-50%,-50%);
+   
+
+}

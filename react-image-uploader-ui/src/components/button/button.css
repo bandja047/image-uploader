@@ -1,0 +1,32 @@
+.btnPrimary{
+    background-color: var(--color-background-blue);
+    border:2px solid var(--color-background-blue);
+    padding:8px;
+    font-size: 12px;
+    color: white;
+    border-radius: var(--border-radius-button);
+
+}
+
+input[type=file]::file-selector-button{
+    background: none;
+    border: none;
+    color: white;
+}
+
+label {
+
+    background-color: var(--color-background-blue);
+    border:2px solid var(--color-background-blue);
+    padding:8px;
+    font-size: 12px;
+    color: white;
+    border-radius: var(--border-radius-button);
+
+    
+    
+   
+   
+    cursor: pointer;
+   
+  }

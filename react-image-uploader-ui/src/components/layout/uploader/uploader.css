@@ -1,0 +1,39 @@
+
+.upload{
+   
+    padding: 8px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form{
+  
+    width: 100%;
+   
+    margin:0 72px 36px 72px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+h1{
+    color: var(--color-title-upload);
+
+    margin: 36px 72px 0 72px;
+    font-size: 24px ;
+}
+
+h2{
+    color:var(--color-subtitle-upload);
+   
+    margin: 12px 72px 0 72px;
+    font-size: 12px;
+}
+
+span{
+    margin:0 0 36px 0;
+    text-align: center;
+    color:var(--color-gray);
+}
