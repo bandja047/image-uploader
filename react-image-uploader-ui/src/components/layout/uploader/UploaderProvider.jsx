@@ -15,6 +15,7 @@ const UploaderProvider = () => {
 
     function handleImageChange(imgSelected){
         
+        console.log("imaged changes=d");
         setUpload((prevState)=> ({img:imgSelected,status:1}))
     }
 

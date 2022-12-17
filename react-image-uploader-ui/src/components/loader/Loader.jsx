@@ -1,10 +1,10 @@
-import React, { useLayoutEffect } from 'react';
+import React from 'react';
 import { useEffect } from 'react';
-import Card from '../card/Card';
+
 import './loader.css'
 const Loader = ({onLoading}) => {
 
-   useLayoutEffect(() => {
+   useEffect(() => {
        
     
         async function wait() {
@@ -17,7 +17,7 @@ const Loader = ({onLoading}) => {
       
 
       
-    }, [])
+    }, [onLoading])
 
     
     
