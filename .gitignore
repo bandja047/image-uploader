@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-image-uploader-ui/node_modules
+/react-image-uploader-ui/.pnp
+/react-image-uploader-ui.pnp.js
+
+# testing
+/react-image-uploader-ui/coverage
+
+# production
+/react-image-uploader-ui/build
+
+# misc
+/react-image-uploader-ui/.DS_Store
+/react-image-uploader-ui/.env.local
+/react-image-uploader-ui/.env.development.local
+/react-image-uploader-ui/.env.test.local
+/react-image-uploader-ui/.env.production.local
+
+/react-image-uploader-ui/npm-debug.log*
+/react-image-uploader-ui/yarn-debug.log*
+/react-image-uploader-ui/yarn-error.log*
